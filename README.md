@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-Pathfinding Visualizer is a web-based tool for visualizing various pathfinding algorithms. It allows users to draw walls and set start and end points to see how different algorithms find the shortest path.
+Pathfinding Visualizer is an interactive web tool that demonstrates how various pathfinding algorithms work. Users can place walls, define start and end points, and watch how each algorithm explores the grid to find the shortest path.
 
 ## Features
 
